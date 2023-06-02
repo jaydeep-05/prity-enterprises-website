@@ -14,20 +14,20 @@ const Carousel = () => {
             </div>
             <div className="carousel-inner">
                 <div className="carousel-item active">
-                    <img src="../src/assets/carousel1.webp" className="d-block w-100" alt="..." height="500px" width="300px"/>
+                    <img src="/static/images/carousel1.webp" className="d-block w-100" alt="..." height="500px" width="300px"/>
                     <div className="carousel-caption d-none d-md-block">
                         <h1 style={{color:'red'}}>Pharmaceutical Industry</h1>
                     </div>
                 </div>
                 <div className="carousel-item">
-                    <img src="../src/assets/carousel2.jpg" className="d-block w-100" alt="..." height="500px" width="300px"/>
+                    <img src="/static/images/carousel2.jpg" className="d-block w-100" alt="..." height="500px" width="300px"/>
                     <div className="carousel-caption d-none d-md-block">
                         <h1 style={{color:'black'}}>Chemical Industry</h1>
                        
                     </div>
                 </div>
                 <div className="carousel-item">
-                    <img src="../src/assets/carousel3.webp" className="d-block w-100" alt="..." height="500px" width="300px"/>
+                    <img src="/static/images/carousel3.webp" className="d-block w-100" alt="..." height="500px" width="300px"/>
                     <div className="carousel-caption d-none d-md-block">
                         <h1 style={{color:'black'}}>ETP</h1>
                     </div>

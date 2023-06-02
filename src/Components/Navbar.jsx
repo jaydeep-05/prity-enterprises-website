@@ -6,7 +6,7 @@ const Navbar = () => {
     <>
         <nav className="navbar navbar-expand-lg ">
             <div className="container-fluid">
-            <img src="../src/assets/logo.jpg" alt="Bootstrap" width="75" height="75" style={{padding: '10px'}}/>
+            <img src="/static/images/Logo.JPG" alt="Bootstrap" width="75" height="75" style={{padding: '10px'}}/>
            
                 <a className="navbar-brand" href="">Prity Enterprises</a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse"

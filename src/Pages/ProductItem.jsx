@@ -17,7 +17,7 @@ const ProductItem = () => {
     <tbody>
       <tr>
         <td className='product-img-container'>
-          <img src="../src/assets/industrial-centrifuge-filter-bag-500x500.webp" alt="Product Image" className="product-image" />
+          <img src="/static/images/industrial-centrifuge-filter-bag-500x500.webp" alt="Product Image" className="product-image" />
         </td>
         <td>
           <h5 className='product-head'>Centrifuge Bag</h5>
@@ -31,7 +31,7 @@ const ProductItem = () => {
       </tr>
       <tr>
         <td className='product-img-container'>
-          <img src="../src/assets/fluid-bed-dryer-bag.webp" alt="Product Image" className="product-image"/>
+          <img src="/static/images/fluid-bed-dryer-bag.webp" alt="Product Image" className="product-image"/>
         </td>
         <td>
           <h5 className='product-head'>FBD/FBP Bags</h5>
@@ -44,7 +44,7 @@ const ProductItem = () => {
       </tr>
       <tr>
         <td className='product-img-container'>
-          <img src="../src/assets/filter-press.webp" alt="Product Image" className="product-image"/>
+          <img src="/static/images/filter-press.webp" alt="Product Image" className="product-image"/>
         </td>
         <td>
           <h5 className='product-head'>FILTER PRESS MEDIA</h5>
@@ -57,7 +57,7 @@ const ProductItem = () => {
       </tr>
       <tr>
         <td className='product-img-container'>
-          <img src="../src/assets/sparkler-filter.webp" alt="Product Image" className="product-image"/>
+          <img src="/static/images/sparkler-filter.webp" alt="Product Image" className="product-image"/>
         </td>
         <td>
           <h5 className='product-head'>SPARKLER FILTERS PADS </h5>
@@ -71,7 +71,7 @@ const ProductItem = () => {
       </tr>
       <tr>
         <td className='product-img-container'>
-          <img src="../src/assets/neutsch.webp" alt="Product Image" className="product-image"/>
+          <img src="/static/images/neutsch.webp" alt="Product Image" className="product-image"/>
         </td>
         <td>
           <h5 className='product-head'>NEUTCH FILTER BAG</h5>
@@ -85,7 +85,7 @@ const ProductItem = () => {
       </tr>
       <tr>
         <td className='product-img-container'>
-          <img src="../src/assets/dust-collector-filter-bag.png" alt="Product Image" className="product-image"/>
+          <img src="/static/images/dust-collector-filter-bag.png" alt="Product Image" className="product-image"/>
         </td>
         <td>
           <h5 className='product-head'>DUST COLLECTOR BAGS</h5>
@@ -98,7 +98,7 @@ const ProductItem = () => {
       </tr>
       <tr>
         <td className='product-img-container'>
-          <img src="../src/assets/cartridge-filter.jpg" alt="Product Image" className="product-image"/>
+          <img src="/static/images/cartridge-filter.JPG" alt="Product Image" className="product-image"/>
         </td>
         <td>
           <h5 className='product-head'>Cartrdge Filter</h5>
@@ -112,7 +112,7 @@ const ProductItem = () => {
       </tr>
       <tr>
         <td className='product-img-container'>
-          <img src="../src/assets/sshousing.webp" alt="Product Image" className="product-image"/>
+          <img src="/static/images/sshousing.webp" alt="Product Image" className="product-image"/>
         </td>
         <td>
           <h5 className='product-head'>S.S. Housing & Housing Filter</h5>
@@ -126,7 +126,7 @@ const ProductItem = () => {
       </tr>
       <tr>
         <td className='product-img-container'>
-          <img src="../src/assets/pulveriser.webp" alt="Product Image" className="product-image"/>
+          <img src="/static/images/pulveriser.webp" alt="Product Image" className="product-image"/>
         </td>
         <td>
           <h5 className='product-head'>PULLVELIZER BAG</h5>
@@ -139,7 +139,7 @@ const ProductItem = () => {
       </tr>
       <tr>
         <td className='product-img-container'>
-          <img src="../src/assets/cage.webp" alt="Product Image" className="product-image"/>
+          <img src="/static/images/cage.webp" alt="Product Image" className="product-image"/>
         </td>
         <td>
           <h5 className='product-head'>Cage</h5>
