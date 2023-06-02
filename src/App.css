@@ -1,0 +1,107 @@
+body{
+    /* Beige And Dark Grey */
+    /* background-color: #DDD0C8;
+    color:#323232; */
+
+    /* Navy BLue And Dark Grey */
+    /* background-color: #90ccf4;
+    color:#19181a; */
+
+    /* background-color: #97aabd;
+    color:#314455; */
+
+    background-color: #2d283e;
+    color:#d1d7e0;
+
+    /* background-color: #265077;
+    color:#ffffff; */
+
+
+     /* Default */
+    /* background-color: rgb(222, 222, 222); */
+    /* color: rgb(57, 57, 57); */
+
+    font-family: 'Ubuntu', sans-serif;
+}
+.img-thumbnail{
+    height: 250px;
+    margin-bottom:10px ;
+}
+
+.contact-us{
+    border-top: 1px solid ;
+}
+
+/* .contact-card{
+    border-right:1px solid ;
+} */
+
+.navbar{
+    padding: 20px;
+}
+.navbar-brand{
+    color:#d1d7e0 ;
+    font-weight: bolder;
+    font-family: 'Ubuntu', sans-serif;
+
+    font-size: 35px;
+}
+.nav-link{
+    color: #d1d7e0;
+    font-size: 25px;
+    margin: 15px;
+}
+
+
+.product-head{
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    
+    padding: 0;
+}
+.product-desc{
+    font-size: 16px;
+    line-height: 22.4px;
+    padding: 0;
+    
+}
+
+.product-image {
+    width: 200px;
+    height: 150px;
+    vertical-align: middle;
+    border: 0;
+  }
+
+
+table{
+
+    border-collapse: collapse;
+    width: 80%;
+}
+tr{
+    color: #d1d7e0;
+    border-bottom: 1px solid black;
+}
+td{
+    padding: 0.5rem;
+    text-align: left;
+}
+  
+.product-img-container{
+    width: 235px;
+}
+
+.about-us{
+    font-size: 20px;
+}
+
+.modal-title{
+    /* background-color: #2d283e; */
+    color:#2d283e;
+}
+.modal-body{
+    /* background-color: #2d283e; */
+    color:#2d283e;
+}
