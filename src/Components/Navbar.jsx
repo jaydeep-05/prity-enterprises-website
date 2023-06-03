@@ -8,7 +8,7 @@ const Navbar = () => {
             <div className="container-fluid">
             <img src="/static/images/Logo.JPG" alt="Bootstrap" width="75" height="75" style={{padding: '10px'}}/>
            
-                <a className="navbar-brand" href="">Prity Enterprises</a>
+                <a className="navbar-brand" href="">PRITY ENTERPRISES</a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false"
                     aria-label="Toggle navigation">

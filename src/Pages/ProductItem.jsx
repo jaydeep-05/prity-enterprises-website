@@ -6,7 +6,7 @@ const ProductItem = () => {
    <>
    <nav className="navbar navbar-expand-lg">
             <div className="container-fluid">
-            <Link to="/" className='navbar-brand'>Prity Enterprises</Link>
+            <Link to="/" className='navbar-brand'>PRITY ENTERPRISES</Link>
             </div>
     </nav>
     <div class="container">
@@ -147,6 +147,20 @@ const ProductItem = () => {
             Type: Collar Type, Snap Band Type, U- Type <br />
             MOC: 5.5., M.S., G.I.a<br />
             Sizes: As per equipment size <br />
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td className='product-img-container'>
+          <img src="/static/images/ppfilter.jpg" alt="Product Image" className="product-image"/>
+        </td>
+        <td>
+          <h5 className='product-head'>PP Pleated Filter Cartridge</h5>
+          <p className='product-desc'>
+            MOC: Polypropylene(PP) <br />
+            Fitting: DOE, SOE, Code7<br />
+            Size: 2.5" X 10", 20", 30", 40" <br />
+            Micron: 0.1um,0.45um,25um
           </p>
         </td>
       </tr>
