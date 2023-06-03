@@ -5,6 +5,7 @@ const ProductItem = () => {
   return (
    <>
    <nav className="navbar navbar-expand-lg">
+            <img src="/static/images/Logo.JPG" alt="Bootstrap" width="75" height="75" style={{padding: '10px'}}/>
             <div className="container-fluid">
             <Link to="/" className='navbar-brand'>PRITY ENTERPRISES</Link>
             </div>
